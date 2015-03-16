@@ -11,7 +11,6 @@ body {
 	background-color: $background-color;
 }
 
-header,
 main {
 	padding: 0 20px;
 }
@@ -60,14 +59,14 @@ since it must be aligned with the content */
 }
 
 .logo {
-	width: 96px;
-	height: 96px;
+	width: 200px;
+	height: 200px;
 	display: inline-block;
 	background-size: cover;
-	border-radius: 50%;
-	-moz-border-radius: 50%;
-	border: 2px solid $background-color;
-	box-shadow: 0 0 0 3px $text-color;
+//	border-radius: 50%;
+//	-moz-border-radius: 50%;
+//	border: 2px solid $background-color;
+	//box-shadow: 0 0 0 3px $text-color;
 }
 
 /*** author ***/
@@ -137,7 +136,6 @@ footer {
 	}
 
 	.author-container h1,
-	.logo-container,
 	.tagline-container p {
 		text-align: right;
 	}

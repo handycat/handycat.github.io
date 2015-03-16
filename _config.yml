@@ -5,11 +5,12 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/handy_cat-text_logo-no_outline.png"
+  #logo: "images/handy_cat_logo_draft_1.png"
   # author will appear under the avatar (optional)
-  author: "HandyCAT"
+  #author: "HandyCAT"
   # tagline will appear under the title (optional)
-  tagline: "The customizable CAT tool"
+  #tagline: "The customizable CAT tool"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
